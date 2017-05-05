@@ -1,0 +1,7 @@
+[package]
+name = "first-proj"
+version = "0.1.0"
+authors = ["arvind"]
+
+[dependencies]
+rand="0.3.0"
